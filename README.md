@@ -19,7 +19,7 @@ function dev() {
  const stack = "Fullstack"
  
  const languages = ["Java", "JavaScript", "Python", "TypeScript",
- "HTML", "CSS", "PHP", "C++"]
+ "HTML", "CSS", "PHP"]
 }
 ```
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
