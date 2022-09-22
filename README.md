@@ -22,7 +22,7 @@ function dev() {
  "HTML", "CSS", "PHP"]
 }
 ```
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Fxxst-creator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Fxxst-creator?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Socials
