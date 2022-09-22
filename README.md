@@ -1,4 +1,4 @@
-Hi :wave: My name is Kazi
+Hi :wave: My name is Kauê
 ==========================
 
 Full Stack Software Developer
@@ -15,7 +15,7 @@ I'm a 20-year-old web developer that currently reside in Flórida, I'm looking f
 
 ```typescript
 function dev() {
- const name = "Kazi"
+ const name = "Kauê"
  const stack = "Fullstack"
  const website = "fsantosmc.net"
  
