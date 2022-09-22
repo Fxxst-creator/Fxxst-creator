@@ -17,7 +17,6 @@ I'm a 20-year-old web developer that currently reside in Flórida, I'm looking f
 function dev() {
  const name = "Kauê"
  const stack = "Fullstack"
- const website = "fsantosmc.net"
  
  const languages = ["Java", "JavaScript", "Python", "TypeScript",
  "HTML", "CSS", "PHP", "C++"]
