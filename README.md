@@ -4,7 +4,7 @@ Hi :wave: My name is Kauê
 Full Stack Software Developer
 -----------------------------
 
-I'm a 20-year-old web developer that currently reside in São Paulo, I'm looking for projects to contribute to and people to collaborate with! I'm a big proponent of putting an emphasis on accessibility and user experience in web development. case wanted to contact me [support@santosmc.com]
+I'm a 20-year-old web developer that currently reside in São Paulo, I'm looking for projects to contribute to and people to collaborate with! I'm a big proponent of putting an emphasis on accessibility and user experience in web development.
 
 * ✉️  You can contact me at [kauesocs@gmail.com](mailto:kauesocs@gmail.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
